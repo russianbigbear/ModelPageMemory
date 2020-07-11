@@ -1,0 +1,4 @@
+﻿  OS_8.cpp
+g:\os_8\os_8\paging_model.h(193): warning C4018: <: несоответствие типов со знаком и без знака
+  OS_8.vcxproj -> G:\OS_8\Debug\OS_8.exe
+  OS_8.vcxproj -> G:\OS_8\Debug\OS_8.pdb (Full PDB)
